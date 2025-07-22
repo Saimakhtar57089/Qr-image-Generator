@@ -1,0 +1,4 @@
+These are the Following Libraries Required to Run  the Code 
+
+pyqrcode : pip install pyqrcode
+pypng : pip install pypng
